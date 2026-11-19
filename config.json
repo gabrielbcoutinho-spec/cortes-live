@@ -1,0 +1,29 @@
+{
+  "pasta_dados": "J:\\cortes-live",
+  "segment_seconds": 60,
+  "retention_minutes": 15,
+  "min_free_gb": 5,
+  "whisper_model": "small",
+  "analyze_every_segments": 5,
+  "context_minutes": 8,
+  "claude_model": "sonnet",
+  "claude_parallel": 2,
+  "min_score": 8,
+  "clip_min_s": 15,
+  "clip_max_s": 75,
+  "canais": {
+    "alanzoka": {
+      "url": "https://www.twitch.tv/alanzoka"
+    },
+    "allanstag": {
+      "url": "https://kick.com/allanstag"
+    },
+    "gabepeixe": {
+      "url": "https://kick.com/gabepeixe"
+    }
+  },
+  "max_cortes_por_hora": 3,
+  "previa_gancho": false,
+  "texto_gancho": false,
+  "titulo_na_tela": true
+}

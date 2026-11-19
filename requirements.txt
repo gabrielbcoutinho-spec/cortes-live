@@ -1,0 +1,6 @@
+faster-whisper==1.2.1
+streamlink==8.6.3
+opencv-python-headless<5
+# GPU NVIDIA (opcional, deixa a transcrição bem mais rápida)
+nvidia-cublas-cu12
+nvidia-cudnn-cu12

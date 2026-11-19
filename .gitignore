@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.omc/
+trabalho/
+prontos/
+passado/
+entrada/
+reprovados/
+*.ts
+*.mp4
+rodando.pid
